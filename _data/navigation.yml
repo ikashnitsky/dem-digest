@@ -1,0 +1,11 @@
+# Site navigation links
+
+- title         : "О проекте"
+  url           : /about/
+  excerpt       : "Демографичсекий Дайджест"
+  image:
+  
+- title         : "DD-HSE"
+  url           : /dd-hse/
+  excerpt       : "Проект для студентов НИУ ВШЭ"
+  image:
