@@ -1,7 +1,9 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "Обзоры демографических статей"
+image:
+  feature: banner-1024x256.png
 ---
 
 <div class="tiles">

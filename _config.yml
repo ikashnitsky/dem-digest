@@ -3,7 +3,7 @@
 title                   : "Demographic Digest"
 description             : "Демографический Дайджест – регулярная рубрика журнала Демоскоп Weekly, в которой приводятся краткие обзоры демографических статей, публикуемых в ведущих зарубежных журналах."
 logo                    : logo-120x120.png
-teaser                  : # 400x250 px default teaser image used in image archive grid
+teaser                  : teaser-400x250.png
 locale                  : en
 url                     : https://ikashnitsky.github.io/dem-digest
 feed:
