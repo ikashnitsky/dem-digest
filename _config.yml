@@ -30,12 +30,12 @@ gems:
 
 # Site owner
 owner:
-  name                  : "Ilya Kashnitsky"
+  name                  : "Илья Кашницкий"
   email                 : "ilya.kashnitsky@gmail.com"
   twitter               : "ikashnitsky"
   github                : "ikashnitsky"
   facebook              : "ikashnitsky"
-  bio                   : "Ilya Kashnitsky is a PhD candidate in demography at University of Groningen and Netherlands Interdisciplinary Demographic Institute."
+  bio                   : "Демограф, PhD кандидат Университета Гронингена и Нидерландского междисциплинарного демографического института (NIDI); младший научный сотрудник Института социальной политики НИУ ВШЭ."
   avatar                : bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname      :
 
