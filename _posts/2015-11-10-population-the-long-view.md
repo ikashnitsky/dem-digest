@@ -87,9 +87,9 @@ image:
 3. Van Bavel, J. (2010). Subreplacement fertility in the West before the baby boom: Past and current perspectives. Population Studies, 64(1), 1–18. http://doi.org/10.1080/00324720903362806  
 
 ***
+**[Публикация в жунрале Демоскоп Weekly, #661-662](http://demoscope.ru/weekly/2015/0661/digest01.php)**
+***
 
 [^1]: Van Bavel, J., & Reher, D. S. (2013). The Baby Boom and Its Causes: What We Know and What We Need to Know. Population and Development Review, 39(2), 257–288. http://doi.org/10.1111/j.1728-4457.2013.00591.x
 [^2]: 29 октября 2015 года китайской правительство приняло решение позволить всем семьям иметь по двое детей. Предварительное решение еще предстоит утвердить на съезде Коммунистической партии Китая. Источник: China to allow two children for all couples. (2015, October 29). Xinhua. Retrieved from http://news.xinhuanet.com/english/2015-10/29/c_134763645.htm
 
-***
-### [Публикация в жунрале Демоскоп Weekly, #661-662](http://demoscope.ru/weekly/2015/0661/digest01.php)
