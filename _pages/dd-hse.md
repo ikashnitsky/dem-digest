@@ -1,14 +1,16 @@
 ---
 layout: article
-permalink: /dd-hse/
+permalink: /dd-hse
 title: "Демографический Дайджест для студентов НИУ ВШЭ"
 ---
 
-*Demographic Digest*  is a regular column at [Demoscope Weekly][1] which publishes (in Russian) brief summaries of fresh demographic papers from the best academic journals.
+Since 2016 *Demographic Digest* welcomes contributions from  from external authors. In February 2017 the first [project](https://www.hse.ru/org/hse/pfair/199751652.html) for the students of National Research University Higher School of Economics was launched.
 
-*Демографический Дайджест* – регулярная рубрика журнала [Демоскоп Weekly][1], в которой приводятся краткие обзоры демографических статей, публикуемых в ведущих зарубежных журналах.
+С конца 2016 года *Демографический Дайджест* активно привлекает внешних авторов.   
 
-***
-[[ARCHIVE]][1]
-
-[1]: http://demoscope.ru/weekly/arc/arcdigest.php
+В 2017 году запущен проект ["Демографический Дайджест"](https://www.hse.ru/org/hse/pfair/199751652.html) для студентов НИУ ВШЭ. Первыми пятью участниками проекта стали в феврале 2017 года:
+ - Мария Вилкова, 4 курс, Факультет экономических наук
+ - Олеся Клюшина, 1 курс магистратуры, Факультет социальных наук
+ - Анна Левина, 3 курс, Факультет мировой экономики и мировой политики
+ - Юлия Лонщикова, 4 курс, Факультет экономических наук
+ - Александр Сиднев, 3 курс, Факультет экономических наук
