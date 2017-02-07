@@ -8,8 +8,8 @@ locales:
     overview: "Overview"
     toc: "Содержание"
     written_by: "Автор: "
-    updated: "Обновлено"
-    share: "Поделиться"
+    updated: ""
+    share: "Поделиться в"
   en_US:
     <<: *DEFAULT_EN     # use English translation for en_US
   en_UK:

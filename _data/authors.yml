@@ -1,0 +1,18 @@
+# Site owner
+ilya:
+  name                  : "Илья Кашницкий (ilya.kashnitsky@gmail.com)"
+  web                   : https://ikashnitsky.github.io
+  email                 : "ilya.kashnitsky@gmail.com"
+  twitter               : "ikashnitsky"
+  github                : "ikashnitsky"
+  facebook              : "ikashnitsky"
+  bio                   : "Автор и руководитель проекта, PhD кандидат Университета Гронингена и Нидерландского междисциплинарного демографического института (NIDI); младший научный сотрудник Института социальной политики НИУ ВШЭ."
+  avatar                : bio-ik.jpg # 160x160 px image for author byline
+  
+sveta:
+  name                  : "Света Бирюкова (svtl.biryukova@gmail.com)"
+  web                   : https://www.hse.ru/org/persons/69236603
+  email                 : "svtl.biryukova@gmail.com"
+  facebook              : "svetlana.biryukova.524"
+  bio                   : "К.э.н, ведущий научный сотрудник Института социальной политики НИУ ВШЭ."
+  avatar                : bio-sveta.jpg
