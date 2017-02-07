@@ -5,8 +5,7 @@ description             : "Демографический Дайджест – �
 logo                    : logo-120x120.png
 teaser                  : teaser-400x250.png
 locale                  : en
-url                     : https://ikashnitsky.github.io
-baseurl                 : /dem-digest
+url                     : https://ikashnitsky.github.io/dem-digest
 feed:
   path                  : atom.xml
 encoding: UTF-8
