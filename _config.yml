@@ -15,7 +15,7 @@ encoding: UTF-8
 sass:
   sass_dir              : _sass
   style                 : compressed
-permalink               : /:categories/:year/:title/
+permalink               : /:categories/:year/:month/:day/:title/
 markdown                : kramdown
 highlighter             : rouge
 kramdown:
