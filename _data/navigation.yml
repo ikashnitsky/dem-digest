@@ -4,11 +4,6 @@
   url           : /list
   excerpt       : "Демографичсекий Дайджест - архив"
   image:
-  
-- title         : "Список"
-  url           : /list-b
-  excerpt       : "Демографичсекий Дайджест - архив (плитка)"
-  image:  
 
 - title         : "О проекте"
   url           : /about
