@@ -3,7 +3,7 @@ layout: archive
 permalink: /list
 title: "Архив обзоров - список"
 image:
-  feature: banner-1024x256.png
+  feature: 
 ---
 
 <div class="tiles">
