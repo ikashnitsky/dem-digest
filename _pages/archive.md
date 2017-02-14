@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /list
+permalink: /archive
 title: "Архив обзоров - список"
 image:
   feature: 
