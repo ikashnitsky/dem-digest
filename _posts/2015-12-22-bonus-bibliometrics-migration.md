@@ -4,7 +4,7 @@ title: "Библиометрия статей о миграции"
 categories: 
   - bonus
 image:
-  teaser:
+  teaser: 151222-bonus.png
 ---
 
 > Villamor, E., Dekker, L., Svensson, T., & Cnattingius, S. (2010). Accuracy of the Chinese lunar calendar method to predict a baby’s sex: a population-based study: Chinese calendar sex prediction. Paediatric and Perinatal Epidemiology, 24(4), 398–400. http://doi.org/10.1111/j.1365-3016.2010.01129.x
