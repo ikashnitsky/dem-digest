@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /bonus
+permalink: /bonus/
 title: "Архив обзоров - БОНУС"
 image:
   feature: 
