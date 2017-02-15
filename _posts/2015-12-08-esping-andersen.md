@@ -4,7 +4,7 @@ title: "Re-theorizing Family Demographics"
 categories: 
   - archive
 image:
-  teaser: 
+  teaser: 151208-esping-andersen.png
 ---
 
 > Esping-Andersen, G., & Billari, F. C. (2015). Re-theorizing Family Demographics. Population and Development Review, 41(1), 1–31. http://doi.org/10.1111/j.1728-4457.2015.00024.x

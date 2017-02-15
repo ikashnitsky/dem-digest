@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "BONUS - Accuracy of the Chinese lunar calendar method to predict a baby’s sex"
+title: "Голубой или розовый?"
 categories: 
   - bonus
 image:

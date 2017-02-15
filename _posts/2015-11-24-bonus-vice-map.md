@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "BONUS - Capital Vice in the Midwest"
+title: "Карта семи смертных грехов"
 categories: 
   - bonus
 image:

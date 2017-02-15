@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /archive/
-title: "Архив обзоров статей"
+title: "Архив обзоров"
 image:
   feature: 
 ---
