@@ -7,7 +7,7 @@ image:
 ---
 
 <div class="tiles">
-{% for post not in site.categories.bonus %}
+{% for post site.posts %}
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
