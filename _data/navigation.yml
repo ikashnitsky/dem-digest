@@ -4,6 +4,11 @@
   url           : /archive
   excerpt       : "Демографичсекий Дайджест - архив"
   image:
+  
+- title         : "Бонус"
+  url           : /bonus
+  excerpt       : "Демографичсекий Дайджест - бонусные материалы"
+  image:
 
 - title         : "О проекте"
   url           : /about
