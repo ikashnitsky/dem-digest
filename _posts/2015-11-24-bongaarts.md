@@ -1,8 +1,10 @@
 ---
 layout: article
 title: "How many more missing women?"
+categories: 
+  - archive
 image:
-  teaser: 151124-bongarts-teaser.png
+  teaser: 151124-bongarts.png
 ---
 
 > Bongaarts, J., & Guilmoto, C. Z. (2015). How many more missing women? Excess female mortality and prenatal sex selection, 1970-2050. Population and Development Review, 41(2), 241-269. http://doi.org/10.1111/j.1728-4457.2015.00046.x

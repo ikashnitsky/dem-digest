@@ -1,8 +1,10 @@
 ---
 layout: article
 title: "Population — The long view"
+categories: 
+  - archive
 image:
-  teaser: 151110-pop-st-teaser.png
+  teaser: 151110-pop-st.png
 ---
 
 Демоскоп запускает новую рубрику с регулярными обзорами демографических статей, публикуемых в ведущих журналах.  

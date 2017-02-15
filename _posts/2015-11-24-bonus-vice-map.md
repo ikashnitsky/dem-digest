@@ -4,7 +4,7 @@ title: "BONUS - Capital Vice in the Midwest"
 categories: 
   - bonus
 image:
-  teaser: 151124-bonus-teaser.png
+  teaser: 151124-bonus.png
 ---
 
 > Stimers, M., Bergstrom, R., Vought, T., & Dulin, M. (2011). Capital Vice in the Midwest: The Spatial Distribution of the Seven Deadly Sins. Journal of Maps, 7(1), 9-17. http://doi.org/10.4113/jom.2011.1133

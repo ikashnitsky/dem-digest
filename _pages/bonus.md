@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /bonus/
-title: "Архив обзоров - БОНУС"
+title: "Архив бонусных заметок"
 image:
   feature: 
 ---
