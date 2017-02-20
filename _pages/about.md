@@ -5,7 +5,11 @@ title: "О проекте"
 author: ilya
 ---
 
+***
+
 *Demographic Digest*  is a regular column at [Demoscope Weekly](http://demoscope.ru) which publishes (in Russian) brief summaries of fresh demographic papers from the best academic journals.
+
+***
 
 *Демографический Дайджест* – регулярная рубрика журнала [Демоскоп Weekly](http://demoscope.ru), в которой приводятся краткие обзоры демографических статей, публикуемых в ведущих зарубежных журналах. Рубрика существует с ноября 2015 года.
 

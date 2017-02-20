@@ -4,7 +4,11 @@ permalink: /dd-hse
 title: "Демографический Дайджест для студентов НИУ ВШЭ"
 ---
 
+***
+
 Since 2016 *Demographic Digest* welcomes contributions from  from external authors. In February 2017 the first [project](https://www.hse.ru/org/hse/pfair/199751652.html) for the students of National Research University Higher School of Economics was launched.
+
+***
 
 С конца 2016 года *Демографический Дайджест* активно привлекает внешних авторов.   
 
