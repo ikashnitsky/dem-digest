@@ -9,7 +9,7 @@ author: ilya
 
 *Demographic Digest*  is a regular column at [Demoscope Weekly](http://demoscope.ru) which publishes (in Russian) brief summaries of fresh demographic papers from the best academic journals.  
 
-The aim of the project is to present notable demographic papers of our western colleagues to Russian speaking audience. We do not strive to cover all the results and the methodological nuances of the reviewed papers. In some reviews, interest drives our attention to small details that might seem insignificant to the reader, while the other reviews may seem rather sketchy. To resolve any additional question concerning the papers covered in Digest, the reader is inveted to address the original publications. The presented reviews are no more than just one possible way of reading the academic texts. 
+The aim of the project is to present notable demographic papers of our western colleagues to Russian speaking audience. We do not strive to cover all the results and the methodological nuances of the reviewed papers. In some reviews, the interest drives our attention to the small details that might seem insignificant to the reader, while the other reviews may seem rather sketchy. To resolve any additional questions concerning the papers covered in Digest, the reader is invited to investigate the original publications. The presented reviews are no more than just one possible way of reading the academic texts. 
 
 ***
 
