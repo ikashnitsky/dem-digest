@@ -29,4 +29,4 @@ Sala-i-Martin, X. X. (1997). **I just ran two million regressions**. The America
 [^5]: Hugget S. (2011). Heading for success: or how not to title your paper. Research Trends 24. http://www.researchtrends.com/issue24-september-2011/heading-for-success-or-how-not-to-title-your-paper/
 
 ***
-**[Публикация в жунрале Демоскоп Weekly, #667-668](http://demoscope.ru/weekly/2016/0669/digest04.php)**
+**[Публикация в жунрале Демоскоп Weekly, #669-670](http://demoscope.ru/weekly/2016/0669/digest04.php)**
