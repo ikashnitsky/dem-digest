@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Забудьте о "статистической значимости""
+title: "Забудьте о статистической значимости"
 categories: 
   - bonus
 image:
