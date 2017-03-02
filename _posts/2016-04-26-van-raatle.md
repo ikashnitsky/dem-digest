@@ -5,6 +5,8 @@ categories:
   - archive
 image:
   teaser: 160426-van-raatle.png
+kramdown:
+  mathjax: true
 ---
 
 > Van Raalte, A. A., Myrskylä, M., & Martikainen, P. (2015). The role of smoking on mortality compression: An analysis of Finnish occupational social classes, 1971-2010. Demographic Research, 32, 589.
