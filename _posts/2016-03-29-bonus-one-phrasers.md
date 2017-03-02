@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Забудьте о статистической значимости"
+title: "Две статьи, состоящие из одной фразы"
 categories: 
   - bonus
 image:
