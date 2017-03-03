@@ -4,7 +4,7 @@ title: "Равнение на выдающихся"
 categories: 
   - bonus
 image:
-  teaser: 160816-bonus.jpg
+  teaser: 160816-bonus.png
 ---
 
 > Lariviere, V., Kiermer, V., MacCallum, C. J., McNutt, M., Patterson, M., Pulverer, B., … Curry, S. (2016). A simple proposal for the publication of journal citation distributions. bioRxiv, 62109. http://doi.org/10.1101/062109
