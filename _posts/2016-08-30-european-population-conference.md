@@ -151,4 +151,5 @@ image:
 
 ***
 **[Публикация в жунрале Демоскоп Weekly, #693-694](http://demoscope.ru/weekly/2015/0693/digest01.php)**  
+
 ***
