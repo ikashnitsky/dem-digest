@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Демографическая история в картинках"
+title: "Академический фотошоп"
 categories: 
   - bonus
 image:
