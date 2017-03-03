@@ -1,6 +1,6 @@
 # Site owner
 ilya:
-  name                  : "Илья Кашницкий (ilya.kashnitsky@gmail.com)"
+  name                  : "Илья Кашницкий"
   web                   : https://ikashnitsky.github.io
   email                 : "ilya.kashnitsky@gmail.com"
   twitter               : "ikashnitsky"
@@ -10,7 +10,7 @@ ilya:
   avatar                : bio-ik.jpg # 160x160 px image for author byline
   
 sveta-biryukova:
-  name                  : "Света Бирюкова (svtl.biryukova@gmail.com)"
+  name                  : "Светлана Бирюкова"
   web                   : https://www.hse.ru/org/persons/69236603
   email                 : "svtl.biryukova@gmail.com"
   facebook              : "svetlana.biryukova.524"

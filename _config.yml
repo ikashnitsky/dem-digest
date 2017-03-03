@@ -30,7 +30,8 @@ gems:
 
 # Site owner
 owner:
-  name                  : "Илья Кашницкий (ilya.kashnitsky@gmail.com)"
+  name                  : "Илья Кашницкий"
+  web                   : https://ikashnitsky.github.io
   email                 : "ilya.kashnitsky@gmail.com"
   twitter               : "ikashnitsky"
   github                : "ikashnitsky"
