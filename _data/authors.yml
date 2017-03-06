@@ -15,4 +15,21 @@ sveta-biryukova:
   email                 : "svtl.biryukova@gmail.com"
   facebook              : "svetlana.biryukova.524"
   bio                   : "К.э.н, ведущий научный сотрудник Института социальной политики НИУ ВШЭ."
-  avatar                : bio-sveta-biryukova.jpg
+  avatar                : bio-sveta-biryukova.jpg  
+
+  
+leonid-gavrilov:
+  name                  : "Леонид Гаврилов"
+  web                   : http://longevity-science.org/CV-gavrilov.htm
+  email                 : "gavrilov@longevity-science.org"
+  facebook              : "leonid.gavrilov.90"
+  bio                   : "Ph.D., Senior Research Scientist, Center on Aging, NORC at the University of Chicago."
+  avatar                : bio-leonid-gavrilov.jpg
+  
+maria-vilkova:
+  name                  : "Мария Вилкова"
+  web                   : https://www.facebook.com/maria.vilkova
+  email                 : "vilkomariya@yandex.ru"
+  facebook              : "maria.vilkova"
+  bio                   : "Студентка 4 курса Факультета экономических наук НИУ ВШЭ ."
+  avatar                : bio-maria-vilkova.jpg
