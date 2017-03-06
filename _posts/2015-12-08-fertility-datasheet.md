@@ -20,4 +20,6 @@ image:
 [^1]: Вступительная лекция проходила в [том самом зале](http://www.uu.nl/en/organisation/utrecht-university-hall/about-the-university-hall/history), где в 1579 году была подписана [Утрехтская уния](https://en.wikipedia.org/wiki/Union_of_Utrecht), с которой началось стремительное усиление Республики Соединенных Провинций Нидерландов.
 
 ***
-**[Публикация в жунрале Демоскоп Weekly, #665-666](http://demoscope.ru/weekly/2015/0665/digest01.php)**
+**[Публикация в жунрале Демоскоп Weekly, #665-666](http://demoscope.ru/weekly/2015/0665/digest01.php)**  
+
+***

@@ -19,7 +19,7 @@ image:
 
 [![fig1][f1]][f1]  
 
-[f1]: /dem-digest/images/2016/691-fig-03.png
+[f1]: /dem-digest/images/2016/691-fig-bonus.png
 
 [pre]: http://biorxiv.org/content/early/2016/07/05/062109
 [fun]: https://mathwithbaddrawings.com/2016/07/13/why-not-to-trust-statistics/

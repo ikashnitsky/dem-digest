@@ -18,4 +18,4 @@ image:
 
 
 ***
-**[Публикация в жунрале Демоскоп Weekly, #691-692](http://demoscope.ru/weekly/2016/0691/digest04.php)**
+**[Публикация в жунрале Демоскоп Weekly, #697-698](http://demoscope.ru/weekly/2016/0697/digest04.php)**

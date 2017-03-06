@@ -41,4 +41,6 @@ image:
 
 
 ***
-**[Публикация в жунрале Демоскоп Weekly, #699-700](http://demoscope.ru/weekly/2016/0699/digest03.php)**
+**[Публикация в жунрале Демоскоп Weekly, #699-700](http://demoscope.ru/weekly/2016/0699/digest03.php)**  
+
+***
