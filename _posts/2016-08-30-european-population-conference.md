@@ -150,6 +150,6 @@ image:
 [f8]: /dem-digest/images/2016/693-fig-08.png
 
 ***
-**[Публикация в жунрале Демоскоп Weekly, #693-694](http://demoscope.ru/weekly/2015/0693/digest01.php)**  
+**[Публикация в жунрале Демоскоп Weekly, #693-694](http://demoscope.ru/weekly/2016/0693/digest01.php)**  
 
 ***
