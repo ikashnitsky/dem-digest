@@ -27,4 +27,6 @@ image:
 [^1]: Carnevale, A. P., Rose, S. J., & Cheah, B. (2013). The college payoff: Education, occupation, and lifetime earnings (Report). Washington, DC: Georgetown University Center on Education and the Workforce. Retrieved from https://cew.georgetown.edu/report/the-college-payoff
 
 ***
-**[Публикация в жунрале Демоскоп Weekly, #679-680](http://demoscope.ru/weekly/2016/0679/digest03.php)**
+**[Публикация в жунрале Демоскоп Weekly, #679-680](http://demoscope.ru/weekly/2016/0679/digest03.php)**  
+
+***

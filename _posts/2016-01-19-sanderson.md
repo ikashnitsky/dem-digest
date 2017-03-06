@@ -35,8 +35,9 @@ image:
 [^1]: Sanderson, W. C., & Scherbov, S. (2005). Average remaining lifetimes can increase as human populations age. Nature, 435(7043), 11–813.
 [^2]: Sanderson, W., & Scherbov, S. (2007). A new perspective on population aging. Demographic Research, 16(2), 27–58.
 [^3]: Sanderson, W. C., & Scherbov, S. (2010). Remeasuring Aging. Science, 329(5997), 1287–1288. http://doi.org/10.1126/science.1193647
-[^4]: VID. European Demographic Data Sheet 2014 [Internet]. Vienna, Austria: Vienna Institute of Demography; 2014. Available: http://www.iiasa.ac.at/web/home/research/researchPrograms/
-WorldPopulation/PublicationsMediaCoverage/ModelsData/EU_data_sheet_2014.pdf.
+[^4]: VID. European Demographic Data Sheet 2014 [Internet]. Vienna, Austria: Vienna Institute of Demography; 2014. Available: http://www.iiasa.ac.at/web/home/research/researchPrograms/WorldPopulation/PublicationsMediaCoverage/ModelsData/EU_data_sheet_2014.pdf.
 
 ***
-**[Публикация в жунрале Демоскоп Weekly, #669-670](http://demoscope.ru/weekly/2016/0669/digest01.php)**
+**[Публикация в жунрале Демоскоп Weekly, #669-670](http://demoscope.ru/weekly/2016/0669/digest01.php)**  
+
+***
