@@ -7,17 +7,7 @@ image:
 ---
 
 <div class="tiles">
-{% for post in site.posts limit:20 %}
+{% for post in site.posts %}
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
-
-
-***
-
-## [ВСЕ ОБЗОРЫ][archive] [БОНУС][bonus]  
-
-***
-
-[archive]: /dem-digest/archive/
-[bonus]: /dem-digest/bonus/
