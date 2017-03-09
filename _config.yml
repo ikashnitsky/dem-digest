@@ -39,7 +39,7 @@ owner:
   facebook              : ikashnitsky
   bio                   : "Автор и руководитель проекта, PhD кандидат Университета Гронингена и Нидерландского междисциплинарного демографического института (NIDI); младший научный сотрудник Института социальной политики НИУ ВШЭ."
   avatar                : bio-ik.jpg # 160x160 px image for author byline
-  disqus-shortname      :
+  disqus-shortname      : demographic-digest
 
 include: ["_pages", ".htaccess"]
 exclude:
