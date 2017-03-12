@@ -9,6 +9,7 @@ url                     : https://ikashnitsky.github.io/dem-digest
 feed:
   path                  : atom.xml
 encoding                : UTF-8
+google_analytics        : UA-93349619-2
 comments                : true
 
 # Jekyll configuration
