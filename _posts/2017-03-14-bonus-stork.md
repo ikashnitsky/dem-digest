@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Демографическая политика "ва-банк""
+title: 'Демографическая политика "ва-банк"'
 categories: 
   - bonus
 image:
