@@ -6,7 +6,7 @@ ilya:
   twitter               : "ikashnitsky"
   github                : "ikashnitsky"
   facebook              : "ikashnitsky"
-  bio                   : "Автор и руководитель проекта, PhD кандидат Университета Гронингена и Нидерландского междисциплинарного демографического института (NIDI); младший научный сотрудник Института социальной политики НИУ ВШЭ."
+  bio                   : "Автор и руководитель проекта, PhD кандидат Университета Гронингена и Нидерландского междисциплинарного демографического института (NIDI); младший научный сотрудник Института социальной политики НИУ ВШЭ"
   avatar                : bio-ik.jpg # 160x160 px image for author byline
   
 sveta-biryukova:
@@ -14,7 +14,7 @@ sveta-biryukova:
   web                   : https://www.hse.ru/org/persons/69236603
   email                 : "svtl.biryukova@gmail.com"
   facebook              : "svetlana.biryukova.524"
-  bio                   : "К.э.н, ведущий научный сотрудник Института социальной политики НИУ ВШЭ."
+  bio                   : "К.э.н, ведущий научный сотрудник Института социальной политики НИУ ВШЭ"
   avatar                : bio-sveta-biryukova.jpg  
 
   
@@ -23,13 +23,32 @@ leonid-gavrilov:
   web                   : http://longevity-science.org/CV-gavrilov.htm
   email                 : "gavrilov@longevity-science.org"
   facebook              : "leonid.gavrilov.90"
-  bio                   : "Ph.D., Senior Research Scientist, Center on Aging, NORC at the University of Chicago."
+  bio                   : "Ph.D., Senior Research Scientist, Center on Aging, NORC at the University of Chicago"
   avatar                : bio-leonid-gavrilov.jpg
+  
   
 maria-vilkova:
   name                  : "Мария Вилкова"
   web                   : https://www.facebook.com/maria.vilkova
   email                 : "vilkomariya@yandex.ru"
   facebook              : "maria.vilkova"
-  bio                   : "Студентка 4 курса Факультета экономических наук НИУ ВШЭ ."
+  bio                   : "Студентка 4 курса Факультета экономических наук НИУ ВШЭ"
   avatar                : bio-maria-vilkova.jpg
+
+  
+anna-levina:
+  name                  : "Анна Левина"
+  web                   : 
+  email                 : "mufary@inbox.ru"
+  facebook              : 
+  bio                   : "Студентка 3 курса факультета мировой экономики и мировой политики НИУ ВШЭ"
+  avatar                : bio-anna-levina.jpg
+
+  
+julia-lonshchikova:
+  name                  : "Юлия Лонщикова"
+  web                   : 
+  email                 : "julia.lonshchikova@gmail.com"
+  facebook              : 
+  bio                   : "Студентка 4 курса Факультета экономических наук НИУ ВШЭ"
+  avatar                : bio-julia-lonshchikova.jpg
