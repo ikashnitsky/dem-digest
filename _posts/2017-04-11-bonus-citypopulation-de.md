@@ -53,7 +53,7 @@ image:
 [f1]: /dem-digest/images/2017/723-fig-bonus-06.png
 [f1]: /dem-digest/images/2017/723-fig-bonus-07.png
 
-[cr]: http://nidi.nl/en/staff/overview/bein
+[ch]: http://nidi.nl/en/staff/overview/bein
 [cp]: https://citypopulation.de/
 [tb]: https://iapg.jade-hs.de/personen/brinkhoff/
 [ref]: https://citypopulation.de/references.html
