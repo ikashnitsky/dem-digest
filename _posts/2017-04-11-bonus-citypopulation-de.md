@@ -46,12 +46,12 @@ image:
 
 
 [f1]: /dem-digest/images/2017/723-fig-bonus-01.png
-[f1]: /dem-digest/images/2017/723-fig-bonus-02.png
-[f1]: /dem-digest/images/2017/723-fig-bonus-03.png
-[f1]: /dem-digest/images/2017/723-fig-bonus-04.png
-[f1]: /dem-digest/images/2017/723-fig-bonus-05.png
-[f1]: /dem-digest/images/2017/723-fig-bonus-06.png
-[f1]: /dem-digest/images/2017/723-fig-bonus-07.png
+[f2]: /dem-digest/images/2017/723-fig-bonus-02.png
+[f3]: /dem-digest/images/2017/723-fig-bonus-03.png
+[f4]: /dem-digest/images/2017/723-fig-bonus-04.png
+[f5]: /dem-digest/images/2017/723-fig-bonus-05.png
+[f6]: /dem-digest/images/2017/723-fig-bonus-06.png
+[f7]: /dem-digest/images/2017/723-fig-bonus-07.png
 
 [ch]: http://nidi.nl/en/staff/overview/bein
 [cp]: https://citypopulation.de/
