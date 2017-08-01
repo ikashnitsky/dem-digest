@@ -5,7 +5,7 @@ categories:
   - archive
 author: daniel-kashnitsky
 image:
-  teaser: 170530-kashnitsky.jpg
+  teaser: 170530-kashnitsky.png
 ---
 
 > Demintseva, E., & Kashnitsky, D. (2016). Contextualizing Migrants' Strategies of Seeking Medical Care in Russia. International Migration, 54(5), 29-42. [https://doi.org/10.1111/imig.12247](https://doi.org/10.1111/imig.12247)

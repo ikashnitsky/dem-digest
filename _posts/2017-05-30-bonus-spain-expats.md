@@ -11,7 +11,7 @@ image:
 
 [![fig1][f1]][f1]  
 
-[f1]: /dem-digest/images/2017/727-fig-bonus.png
+[f1]: /dem-digest/images/2017/729-fig-bonus.png
 
 [sh]: http://bancdadesced.uab.es/population_change/
 [ss]: http://ced.uab.cat/BarcelonaSummerSchool%207.pdf
