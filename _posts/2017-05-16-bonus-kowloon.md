@@ -16,7 +16,7 @@ image:
 Все это можно узнать из удивительной истории форта Коулун (Kowloon) в Гонг Конге. В 2014 году, к двадцатилетию со времени сноса квартала, Wall Street Journal подготовил [большой медиапроект][wsj] с рассказом об истории и быте человеческого муравейника.
 
 
-[f1]: /dem-digest/images/2017/727-fig-bonus-01.png
+[f1]: /dem-digest/images/2017/727-fig-bonus-01.jpg
 [f2]: /dem-digest/images/2017/727-fig-bonus-02.png
 
 [wsj]: http://projects.wsj.com/kwc/
@@ -24,5 +24,3 @@ image:
 
 ***
 **[Публикация в жунрале Демоскоп Weekly, #727-728](http://demoscope.ru/weekly/2017/0727/digest03.php)**  
-
-***
