@@ -14,7 +14,7 @@ sveta-biryukova:
   web                   : https://www.hse.ru/org/persons/69236603
   email                 : "svtl.biryukova@gmail.com"
   facebook              : "svetlana.biryukova.524"
-  bio                   : "К.э.н, ведущий научный сотрудник Института социальной политики НИУ ВШЭ"
+  bio                   : "К.э.н., ведущий научный сотрудник Института социальной политики НИУ ВШЭ"
   avatar                : bio-sveta-biryukova.jpg  
 
   
@@ -57,7 +57,41 @@ julia-lonshchikova:
 olesya-kliushina:
   name                  : "Олеся Клюшина"
   web                   : 
-  email                 : "olesia.kliushina@gmail.com "
+  email                 : "olesia.kliushina@gmail.com"
   facebook              : 
   bio                   : "Студентка 1 курса магистратуры Факультета социальных наук НИУ ВШЭ"
   avatar                : bio-olesya-kliushina.jpg
+  
+daniel-kashnitsky:
+  name                  : "Даниил Кашницикй"
+  web                   : https://www.facebook.com/daniel.kashnitsky
+  email                 : "kashnitsky@gmail.com"
+  facebook              : daniel.kashnitsky
+  bio                   : "MSc. Public Health, Lund University"
+  avatar                : bio-daniel-kashnitsky.jpg
+  
+dima-oparin:
+  name                  : "Дмитрий Опарин"
+  web                   : https://www.facebook.com/dmitriy.oparin
+  email                 : "dimaoparin@hotmail.com"
+  facebook              : dmitriy.oparin
+  bio                   : "К.и.н., младший научный сотрудник Института социальной политики НИУ ВШЭ"
+  avatar                : bio-dima-oparin.jpg
+
+ekaterina-demintseva:
+  name                  : "Екатерина Деминцева"
+  web                   : https://www.facebook.com/katia.demintseva
+  email                 : "katia-d@yandex.ru"
+  facebook              : katia.demintseva
+  bio                   : "К.и.н., зав. Центром качественных исследований социальной политики Института социальной политики НИУ ВШЭ"
+  avatar                : bio-ekaterina-demintseva.jpg
+
+maria-gunko:
+  name                  : "Мария Гунько"
+  web                   : https://www.facebook.com/profile.php?id=100008064404635
+  email                 : "msgunko@gmail.com"
+  facebook              : 
+  bio                   : "К.г.н., научный сотрудник Институа географии РАН"
+  avatar                : bio-maria-gunko.jpg
+
+  
