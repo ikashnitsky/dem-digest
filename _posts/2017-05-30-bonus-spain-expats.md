@@ -18,4 +18,4 @@ image:
 
 
 ***
-**[Публикация в жунрале Демоскоп Weekly, #727-728](http://demoscope.ru/weekly/2017/0727/digest03.php)**  
+**[Публикация в жунрале Демоскоп Weekly, #729-730](http://demoscope.ru/weekly/2017/0729/digest03.php)**  
