@@ -5,7 +5,7 @@ author: nikita-gandzha
 categories: 
   - archive
 image:
-  teaser: 171128-garcia-roman.jpg
+  teaser: 171212-garcia-roman.jpg
 ---
 
 > Garcia-Roman, J., Flood, S., & Genadek, K. (2017). Parents' time with a partner in a cross-national context: A comparison of the United States, Spain, and France. Demographic Research, 36(4), 111-144. [https://doi.org/10.4054/DemRes.2017.36.4](https://doi.org/10.4054/DemRes.2017.36.4)
