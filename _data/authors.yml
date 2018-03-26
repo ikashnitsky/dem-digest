@@ -102,6 +102,33 @@ natalia-klimenko:
   bio                   : "Студентка 3 курса факультета мировой экономики и мировой политики НИУ ВШЭ"
   avatar                : bio-natalia-klimemko.jpg
 
+anton-barchuk:
+  name                  : "Антон Барчук"
+  web                   : https://www.facebook.com/anton.barchuk
+  email                 : "barchuk.anton@gmail.com"
+  facebook              : anton.barchuk
+  bio                   : 'Научный сотрудник Университета Тампере и ФГБУ "НМИЦ онкологии им. Н.Н. Петрова" Минздрава России, исполнительный директор Ассоциации онкологов СЗФО'
+  avatar                : bio-anton-barchuk.jpg
+
+anna-bezhanishvili:
+  name                  : "Анна Бежанишвили"
+  web                   : https://www.facebook.com/ann.bezhanishvili
+  email                 : "annbezhani@gmail.com"
+  facebook              : ann.bezhanishvili
+  bio                   : "Студентка 4 курса факультета мировой экономики и мировой политики НИУ ВШЭ"
+  avatar                : bio-anna-bezhanishvili.jpg
+
+julia-lonshchikova-2:
+  name                  : "Юлия Лонщикова"
+  web                   : 
+  email                 : "julia.lonshchikova@gmail.com"
+  facebook              : 
+  bio                   : "Студентка 1 курса магистратуры факультета социальных наук НИУ ВШЭ"
+  avatar                : bio-julia-lonshchikova.jpg
+
+
+
+
 
 
   
