@@ -158,7 +158,13 @@ irina-zamishchak:
   bio                   : "Cтудентка 4 курса факультета мировой экономики и мировой политики НИУ ВШЭ"
   avatar                : bio-irina-zamishchak.jpg
 
-
+vadim-khryukov:
+  name                  : "Вадим Хрюков"
+  web                   : 
+  email                 : "vadimkhrukov@gmail.com"
+  facebook              : 
+  bio                   : "Cтудент 4 курса Санкт-Петербургской школы экономики и менеджмента НИУ ВШЭ"
+  avatar                : bio-vadim-khryukov.jpg
 
 
   
