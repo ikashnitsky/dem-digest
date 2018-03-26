@@ -126,6 +126,30 @@ julia-lonshchikova-2:
   bio                   : "Студентка 1 курса магистратуры факультета социальных наук НИУ ВШЭ"
   avatar                : bio-julia-lonshchikova.jpg
 
+sophia-akhmanayva:
+  name                  : "Софья Ахманаева"
+  web                   : 
+  email                 : "sonych@list.ru"
+  facebook              : 
+  bio                   : "Студентка 2 курса факультета мировой экономики и мировой политики НИУ ВШЭ"
+  avatar                : bio-sophia-akhmanayva.jpg
+
+danil-arakelyan:
+  name                  : "Данил Аракелян"
+  web                   : 
+  email                 : "danilarakelian@mail.ru"
+  facebook              : 
+  bio                   : "Cтудент 3 курса факультета мировой экономики и мировой политики НИУ ВШЭ"
+  avatar                : bio-danil-arakelyan.jpg
+  
+nikita-gandzha:
+  name                  : "Никита Ганджа"
+  web                   : 
+  email                 : "nikitaganzha@mail.ru"
+  facebook              : 
+  bio                   : "Cтудент 2 курса факультета мировой экономики и мировой политики НИУ ВШЭ"
+  avatar                : bio-nikita-gandzha.jpg
+
 
 
 
