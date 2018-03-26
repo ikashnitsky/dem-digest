@@ -16,7 +16,7 @@ image:
 [sarah]: https://twitter.com/sarahoconnor_
 [john]: https://twitter.com/jburnmurdoch
 
-[f1]: /dem-digest/images/2017/751-fig-bonus.png
+[f1]: /dem-digest/images/2017/751-fig-bonus.jpg
 
 
 ***
