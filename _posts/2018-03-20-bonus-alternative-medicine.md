@@ -4,7 +4,7 @@ title: "Альтернатива лечению"
 categories: 
   - bonus
 image:
-  teaser: 180320-bonus.png
+  teaser: 180320-bonus.jpg
 ---
 
 > Johnson, S. B., Park, H. S., Gross, C. P., & Yu, J. B. (2018). Use of Alternative Medicine for Cancer and Its Impact on Survival. JNCI: Journal of the National Cancer Institute, 110(1), 121-124. [https://doi.org/10.1093/jnci/djx145](https://doi.org/10.1093/jnci/djx145)
