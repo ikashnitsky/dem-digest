@@ -41,21 +41,51 @@ Selected reviews from *Demographic Digest* are reprinted in Russian academic jou
 
 # Participation of HSE students
 
-Since 2016 *Demographic Digest* welcomes contributions from  from external authors. In February 2017 the first [project](https://www.hse.ru/org/hse/pfair/199751652.html) for the students of National Research University Higher School of Economics was launched.
-
-### First wave ([2017-02 -- 2017-04][one])
+Since 2016 *Demographic Digest* welcomes contributions from  from external authors. In February 2017 the first [project](https://www.hse.ru/org/hse/pfair/199751652.html) for the students of National Research University Higher School of Economics was launched. So far, there have been 5 waves of the project: [one][one], [two][two], [three][three], [four][four], [five][five]. 
 
 [one]: https://www.hse.ru/org/hse/pfair/199751652.html
+[two]: https://pf.hse.ru/204830140.html
+[three]: https://pf.hse.ru/207849207.html
+[four]: https://pf.hse.ru/211202187.html
+[five]: https://pf.hse.ru/214092077.html
 
+### Here are the participated students:
 
 |------------------|--------------------------------------------------------|
-| ![][a11]         | Maria Vilkova                                          |
-| ![s12][a12]      | Olesya Kliushina                                       |
-| ![s13][a13]      | Anna Levina                                            |
-| ![s14][a14]      | Julia Lonshchikova                                     |
+| ![][a01]         | Maria Vilkova                                          |
+| ![][a02]         | Olesya Kliushina                                       |
+| ![][a03]         | Anna Levina                                            |
+| ![][a04]         | Julia Lonshchikova                                     |
+| ![][a05]         | Natalia Klimenko                                       |
+| ![][a06]         | Anna Bezhanishvili                                     |
+| ![][a07]         | Danil Arakelyan                                        |
+| ![][a08]         | Nikita Gandzha                                         |
+| ![][a09]         | Sophia Akhmanayva                                      |
+| ![][a10]         | Irina Zamishchak                                       |
+| ![][a11]         | Galina Mankova                                         |
+| ![][a12]         | Vadim Khryukov                                         |
 
-[a11]: /dem-digest/images/bio-maria-vilkova.jpg 
-{: height="36px" width="36px"}
-[a12]: /dem-digest/images/bio-olesya-kliushina.jpg
-[a13]: /dem-digest/images/bio-anna-levina.jpg
-[a14]: /dem-digest/images/bio-julia-lonshchikova.jpg
+[a01]: /dem-digest/images/bio-maria-vilkova.jpg 
+{: height="80px" width="80px"}
+[a02]: /dem-digest/images/bio-olesya-kliushina.jpg
+{: height="80px" width="80px"}
+[a03]: /dem-digest/images/bio-anna-levina.jpg
+{: height="80px" width="80px"}
+[a04]: /dem-digest/images/bio-julia-lonshchikova.jpg
+{: height="80px" width="80px"}
+[a05]: /dem-digest/images/bio-natalia-klimemko.jpg
+{: height="80px" width="80px"}
+[a06]: /dem-digest/images/bio-anna-bezhanishvili.jpg
+{: height="80px" width="80px"}
+[a07]: /dem-digest/images/bio-danil-arakelyan.jpg
+{: height="80px" width="80px"}
+[a08]: /dem-digest/images/bio-nikita-gandzha.jpg
+{: height="80px" width="80px"}
+[a09]: /dem-digest/images/bio-sophia-akhmanayva.jpg
+{: height="80px" width="80px"}
+[a10]: /dem-digest/images/bio-irina-zamishchak.jpg
+{: height="80px" width="80px"}
+[a11]: /dem-digest/images/bio-galina-mankova.jpg
+{: height="80px" width="80px"}
+[a12]: /dem-digest/images/bio-vadim-khryukov.jpg
+{: height="80px" width="80px"}
