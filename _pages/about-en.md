@@ -53,7 +53,7 @@ Since 2016 *Demographic Digest* welcomes contributions from  from external autho
 | ![s13][a13]      | Anna Levina                                            |
 | ![s14][a14]      | Julia Lonshchikova                                     |
 
-[a11]: /dem-digest/images/bio-maria-vilkova.jpg
+[a11]: /dem-digest/images/bio-maria-vilkova.jpg =80x
 [a12]: /dem-digest/images/bio-olesya-kliushina.jpg
 [a13]: /dem-digest/images/bio-anna-levina.jpg
 [a14]: /dem-digest/images/bio-julia-lonshchikova.jpg
