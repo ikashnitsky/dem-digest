@@ -48,12 +48,12 @@ Since 2016 *Demographic Digest* welcomes contributions from  from external autho
 [one]: https://www.hse.ru/org/hse/pfair/199751652.html
 
 |------------------|--------------------------------------------------------|
-| ![s11][a11]      | Maria Vilkova                                          |
+| ![s11][a11]{ width=80px }      | Maria Vilkova                                          |
 | ![s12][a12]      | Olesya Kliushina                                       |
 | ![s13][a13]      | Anna Levina                                            |
 | ![s14][a14]      | Julia Lonshchikova                                     |
 
-[a11]: /dem-digest/images/bio-maria-vilkova.jpg =80x
+[a11]: /dem-digest/images/bio-maria-vilkova.jpg
 [a12]: /dem-digest/images/bio-olesya-kliushina.jpg
 [a13]: /dem-digest/images/bio-anna-levina.jpg
 [a14]: /dem-digest/images/bio-julia-lonshchikova.jpg
