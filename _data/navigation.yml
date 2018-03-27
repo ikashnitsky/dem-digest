@@ -11,16 +11,11 @@
   image:
 
 - title         : "О проекте"
-  url           : /about
-  excerpt       : "Демографичсекий Дайджест"
-  image:
-  
-- title         : "DD-HSE"
-  url           : /dd-hse
-  excerpt       : "Проект для студентов НИУ ВШЭ"
+  url           : /about-ru
+  excerpt       : "Информация о проекте Демографичсекий Дайджест"
   image:
 
-- title         : "Дем Обозрение"
-  url           : /dem-rev
-  excerpt       : "Публикация Дайджеста в рецензируемом научном журнале"
+- title         : "About"
+  url           : /about-en
+  excerpt       : "Info in the project Demographic Digest"
   image:
