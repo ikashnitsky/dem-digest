@@ -43,15 +43,27 @@ Selected reviews from *Demographic Digest* are reprinted in Russian academic jou
 
 Since 2016 *Demographic Digest* welcomes contributions from  from external authors. In February 2017 the first [project](https://www.hse.ru/org/hse/pfair/199751652.html) for the students of National Research University Higher School of Economics was launched.
 
-## First wave ([2017-02 -- 2017-04][one])
-
-|------------------|--------------------------------------------------------|
-|![][a11]          | Maria Vilkova                                          |
-|![][a12]          | Olesya Kliushina                                       |
-|![][a13]          | Anna Levina                                            |
-|![][a14]          | Julia Lonshchikova                                     |
+### First wave ([2017-02 -- 2017-04][one])
 
 [one]: https://www.hse.ru/org/hse/pfair/199751652.html
+
+<table>
+    <tr>
+        <td>
+        <img src="/images/bio-maria-vilkova.jpg"></img>
+        </td>
+        <td>
+            Maria Vilkova 
+        </td>
+    </tr>
+</table>
+
+|------------------|--------------------------------------------------------|
+| ![s11][a11]      | Maria Vilkova                                          |
+| ![s12][a12]      | Olesya Kliushina                                       |
+| ![s13][a13]      | Anna Levina                                            |
+| ![s14][a14]      | Julia Lonshchikova                                     |
+
 [a11]: /images/bio-maria-vilkova.jpg
 [a12]: /images/bio-olesya-kliushina.jpg
 [a13]: /images/bio-anna-levina.jpg
