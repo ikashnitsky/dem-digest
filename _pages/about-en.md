@@ -7,19 +7,22 @@ author: ilya
 
 ***
 
-*Demographic Digest*  is a regular column at [Demoscope Weekly](http://demoscope.ru) which publishes (in Russian) brief summaries of fresh demographic papers from the best academic journals.  
+*Demographic Digest*  is a regular column at [Demoscope Weekly][demoscope] which publishes (in Russian) brief summaries of fresh demographic papers from the best academic journals.  
 
 The aim of the project is to present notable demographic papers of our western colleagues to Russian speaking audience. We do not strive to cover all the results and the methodological nuances of the reviewed papers. In some reviews, the interest drives our attention to the small details that might seem insignificant to the reader, while the other reviews may seem rather sketchy. To resolve any additional questions concerning the papers covered in Digest, the reader is invited to investigate the original publications. The presented reviews are no more than just one possible way of reading the academic texts. 
 
-**[The archive of Demographic Digest at Demoscope Weekly](http://demoscope.ru/weekly/arc/arcdigest.php)**  
+**[The archive of Demographic Digest at Demoscope Weekly][archive]**  
 
+[demoscope]: http://demoscope.ru
+[archive]: http://demoscope.ru/weekly/arc/arcdigest.php
 
 ***
 
 # Demographic Review
 
-Selected reviews from *Demographic Digest* are reprinted in Russian academic journal *[Demographic Review](https://demreview.hse.ru/en/)* and are in open access. Below are the links to all publications of Demographic Digest in *Demographic Review*, in **year-issue** format.  
+Selected reviews from *Demographic Digest* are reprinted in Russian academic journal *[Demographic Review][demrev]* and are in open access. Below are the links to all publications of Demographic Digest in *Demographic Review*, in **year-issue** format.  
 
+[demrev]: https://demreview.hse.ru/en/
 
 |------------------|------------------|------------------|------------------|
 |                  |                  | [[2015-3][153]]  | [[2015-4][154]]  |
@@ -41,8 +44,9 @@ Selected reviews from *Demographic Digest* are reprinted in Russian academic jou
 
 # Participation of HSE students
 
-Since 2016 *Demographic Digest* welcomes contributions from  from external authors. In February 2017 the first [project](https://www.hse.ru/org/hse/pfair/199751652.html) for the students of National Research University Higher School of Economics was launched. So far, there have been 5 waves of the project: [one][one], [two][two], [three][three], [four][four], [five][five]. 
+Since 2016 *Demographic Digest* welcomes contributions from external authors. In February 2017 we launched a permanent research project for the students of National Research University Higher School of Economics using the university's platform [Project Fair][pfair]. So far, there have been 5 waves of the project: [one][one], [two][two], [three][three], [four][four], [five][five]. 
 
+[pfair]: https://pf.hse.ru
 [one]: https://www.hse.ru/org/hse/pfair/199751652.html
 [two]: https://pf.hse.ru/204830140.html
 [three]: https://pf.hse.ru/207849207.html
