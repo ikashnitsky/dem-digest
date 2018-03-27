@@ -5,7 +5,6 @@ title: "About the project"
 author: ilya
 ---
 
-***
 
 *Demographic Digest*  is a regular column at [Demoscope Weekly][demoscope] which publishes (in Russian) brief summaries of fresh demographic papers from the best academic journals.  
 
