@@ -46,10 +46,10 @@ Since 2016 *Demographic Digest* welcomes contributions from  from external autho
 ## First wave ([2017-02 -- 2017-04][one])
 
 |------------------|--------------------------------------------------------|
-|![][a11]]         | Maria Vilkova                                          |
-|![][a12]]         | Olesya Kliushina                                       |
-|![][a13]]         | Anna Levina                                            |
-|![][a14]]         | Julia Lonshchikova                                     |
+|![][a11]          | Maria Vilkova                                          |
+|![][a12]          | Olesya Kliushina                                       |
+|![][a13]          | Anna Levina                                            |
+|![][a14]          | Julia Lonshchikova                                     |
 
 [one]: https://www.hse.ru/org/hse/pfair/199751652.html
 [a11]: /images/bio-maria-vilkova.jpg
