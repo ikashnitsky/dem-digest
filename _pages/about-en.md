@@ -47,8 +47,14 @@ Since 2016 *Demographic Digest* welcomes contributions from  from external autho
 
 [one]: https://www.hse.ru/org/hse/pfair/199751652.html
 
+<style type="text/css">
+    .ava{
+        width: 80px;
+    }
+</style>
+
 |------------------|--------------------------------------------------------|
-| ![s11][a11]{ width=80px }      | Maria Vilkova                                          |
+| ![s11][a11]{.ava}      | Maria Vilkova                                          |
 | ![s12][a12]      | Olesya Kliushina                                       |
 | ![s13][a13]      | Anna Levina                                            |
 | ![s14][a14]      | Julia Lonshchikova                                     |
