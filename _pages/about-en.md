@@ -47,24 +47,13 @@ Since 2016 *Demographic Digest* welcomes contributions from  from external autho
 
 [one]: https://www.hse.ru/org/hse/pfair/199751652.html
 
-<table>
-    <tr>
-        <td>
-        <img src="/images/bio-maria-vilkova.jpg"></img>
-        </td>
-        <td>
-            Maria Vilkova 
-        </td>
-    </tr>
-</table>
-
 |------------------|--------------------------------------------------------|
 | ![s11][a11]      | Maria Vilkova                                          |
 | ![s12][a12]      | Olesya Kliushina                                       |
 | ![s13][a13]      | Anna Levina                                            |
 | ![s14][a14]      | Julia Lonshchikova                                     |
 
-[a11]: /images/bio-maria-vilkova.jpg
-[a12]: /images/bio-olesya-kliushina.jpg
-[a13]: /images/bio-anna-levina.jpg
-[a14]: /images/bio-julia-lonshchikova.jpg
+[a11]: /dem-digest/images/bio-maria-vilkova.jpg
+[a12]: /dem-digest/images/bio-olesya-kliushina.jpg
+[a13]: /dem-digest/images/bio-anna-levina.jpg
+[a14]: /dem-digest/images/bio-julia-lonshchikova.jpg
