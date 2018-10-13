@@ -16,7 +16,7 @@ image:
 [![fig2][f2]][f2]  
 
 [f1]: /dem-digest/images/2018/765-fig-bonus-01.png
-[f2]: /dem-digest/images/2018/765-fig-bonus-02.png
+[f2]: /dem-digest/images/2018/765-fig-bonus-02.PNG
 
 [nyt]: https://www.nytimes.com/interactive/2018/03/19/upshot/race-class-white-and-black-men.html
 
