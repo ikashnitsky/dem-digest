@@ -4,7 +4,7 @@ title: "Демографическая рефлексия"
 categories: 
   - bonus
 image:
-  teaser: 180829-bonus.png
+  teaser: 180529-bonus.png
 ---
 
 > Abel, G. J., Muttarak, R., Bordone, V., & Zagheni, E. (2018). Bowling Together: Scientific Collaboration Networks of Demographers at European Population Conferences. European Journal of Population. [https://doi.org/10.1007/s10680-018-9493-1](https://doi.org/10.1007/s10680-018-9493-1)
