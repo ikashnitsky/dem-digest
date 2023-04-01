@@ -9,6 +9,16 @@ ilya:
   bio                   : "Автор и руководитель проекта, PhD кандидат Университета Гронингена и Нидерландского междисциплинарного демографического института (NIDI); младший научный сотрудник Института социальной политики НИУ ВШЭ"
   avatar                : bio-ik.jpg # 160x160 px image for author byline
   
+ik0x:
+  name                  : "Илья Кашницкий"
+  web                   : https://ikashnitsky.github.io
+  email                 : "ilya.kashnitsky@gmail.com"
+  twitter               : "ikashnitsky"
+  github                : "ikashnitsky"
+  facebook              : "ikashnitsky"
+  bio                   : "Демограф, Assistant Professor Междисциплинарного центра изучения динамики населения Университета Южной Дании"
+  avatar                : bio-ik0x.jpg # 160x160 px image for author byline
+  
 sveta-biryukova:
   name                  : "Светлана Бирюкова"
   web                   : https://www.hse.ru/org/persons/69236603
