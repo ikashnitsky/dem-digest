@@ -2,6 +2,7 @@
 layout: archive
 permalink: /
 title: "Обзоры демографических статей"
+toc: false
 image:
   feature: banner-1024x256.png
 ---
